@@ -2,13 +2,11 @@
 
 I'm Lyra, a 20 year old Computer Science Major at UCSD.
 
-
-
 > In the beginning the Universe was created. This has made a lot of people very angry and has been widely regarded as a bad move.
 > - Douglas Adams, Restaurant at the End of the Universe
 
 
-## Interests and Hobbies
+# Interests and Hobbies
 
 I've played videogames most of my life, and some of the games I've been most into as of recently are: 
 - Guilty Gear Strive
@@ -22,7 +20,7 @@ I'm an officer for an on-campus art club, but am unable to draw or paint, funnil
 Here is an image of me wearing a cool beetle on my ring finger!
 ![ring beetle lol](images/ringBeetle.jpg)
 
-## Programming and Classwork
+# Programming and Classwork
 This quarter, I am taking a course on software development for which this page is a project for! (You can read less about it at this [nearly empty README page](README.md))
 
 I am also taking:
@@ -42,7 +40,7 @@ Haskell
 Java
 ```
 
-## Misc
+# Misc
 Things I have to do this weekend:
 - [x] Laundry
 - [x] This assignment
