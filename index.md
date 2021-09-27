@@ -6,7 +6,7 @@ I'm Lyra, a 20 year old Computer Science Major at UCSD.
 > - Douglas Adams, Restaurant at the End of the Universe
 
 
-# Interests and Hobbies
+# [Interests and Hobbies](#interests-and-hobbies)
 
 I've played videogames most of my life, and some of the games I've been most into as of recently are: 
 - Guilty Gear Strive
@@ -20,7 +20,7 @@ I'm an officer for an on-campus art club, but am unable to draw or paint, funnil
 Here is an image of me wearing a cool beetle on my ring finger!
 ![ring beetle lol](images/ringBeetle.jpg)
 
-# Programming and Classwork
+# [Programming and Classwork](#programming-and-classwork)
 This quarter, I am taking a course on software development for which this page is a project for! (You can read less about it at this [nearly empty README page](README.md))
 
 I am also taking:
@@ -30,18 +30,17 @@ I am also taking:
 3. **COGS 101B**, a course on Learning, Memory and Attention
    - It strikes me that if this course gives me practical knowledge, it could help me going forward (and likely would have helped me in past quarters as well.)
 
-
-Some programming languages I've "touched" (used, not necessarily mastered)
 ```
-Python
 C
 C++
 Haskell
 Java
 ```
 
-# Misc
+# [Misc](#misc)
 Things I have to do this weekend:
 - [x] Laundry
 - [x] This assignment
 - [ ] Clean the kitchen
+
+[Return to top of page](#lyras-user-page)
